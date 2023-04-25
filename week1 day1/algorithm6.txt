@@ -1,0 +1,11 @@
+Q) Write an algorithm to find the number of positive factors of an integer
+
+step1: start
+step2: read the value of an integer
+step3: initilize count=1, num=0, i=1
+step4: repeatedly execute the steps (i)-(ii) until (count<=n)
+       (i) if (n%i==0)
+              count=count+1
+       (ii) i=i+1
+step5: print count
+step6: stop

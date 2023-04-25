@@ -1,0 +1,9 @@
+Q) Write an algorithm to find the biggest of two numbers
+
+step1: stsrt
+step2: read the two numbers num1,num2
+step3: if num1 is bigger than num2
+            print " num1 is bigger "
+       else
+            print " num2 is bigger "
+step4: stop

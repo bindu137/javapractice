@@ -1,0 +1,7 @@
+Q) Write an algorithm to find the sum of n natural numbers
+
+step1: start
+step2: read the value of n
+step3: calculate the sum using the formula sum=(n*n+1)/2
+step4: print sum
+step5: stop

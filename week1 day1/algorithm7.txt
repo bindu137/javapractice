@@ -1,0 +1,11 @@
+Q) Write an algorithm to find the product of first n odd numbers
+
+step1: start
+step2: read the value of n
+step3: initilize i=1, mul=1, count=1
+step4: repeatedly execute the steps (i)-(iii) until (count<=n)
+       (i) mul=mul*i
+       (ii) i=i+2
+       (iii) count=count+1
+step4: print mul
+step5: stop

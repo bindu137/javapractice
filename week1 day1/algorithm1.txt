@@ -1,0 +1,13 @@
+Q) Write an algorithm to swap 2 numbers
+
+step1: start
+step2: read the two interger value num1,num2
+step3: place the num1 value in temp
+       temp<---num1
+step4: place the num2 value in num1
+       num1<---num2
+step5: place the temp value in num2
+       num2<---temp
+step6: print num1,num2
+step7: stop
+

@@ -1,0 +1,9 @@
+Q) Write an algorithm to check whether the person is eligible to vote or not
+
+step1: start
+step2: read the age of the person
+step3: if (age>18)
+          print " person is eligilbe to vote "
+       else
+          print " person is not eligible to vote "
+step4: stop
